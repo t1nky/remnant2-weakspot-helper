@@ -1,0 +1,14 @@
+# Build output
+bin/
+obj/
+dist/
+*.user
+.vs/
+
+# Local runtime state (written next to the exe)
+logs/
+ui_config.json
+aim_config.json
+
+# Private material. Never publish this folder.
+_research/
